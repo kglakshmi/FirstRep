@@ -4,9 +4,8 @@ def add(a,b):
 def sub(x,y):
     return (x-y)
 
+def mul(a,b):
+    return (a*b)
 
-obj = add(3,6)   
-print (obj)
 
-obj1 = sub(10,8)
-print (obj1)
+
